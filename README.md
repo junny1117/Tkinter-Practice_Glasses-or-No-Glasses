@@ -11,3 +11,8 @@
 ### saved_model.h5 - 학습된 모델
 ### `test_glasses.jpg` - 안경 쓴 사람 테스트 이미지
 ### test_noglasses.jpg` - 안경 쓰지 않은 사람 테스트 이미지
+
+## 실행결과
+![2-8](https://github.com/user-attachments/assets/7e9ad984-2c96-4bf8-acbf-734c097e78e6)
+![2-9](https://github.com/user-attachments/assets/4116b729-8198-4351-932d-44cf494b96da)
+
