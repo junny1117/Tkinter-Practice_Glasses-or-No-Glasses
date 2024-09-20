@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 import os
 
-model_path = 'saved_model.h5'  
+model_path = 'Tkinter-Practice_Glasses-or-No-Glasses/saved_model.h5'  
 model = tf.keras.models.load_model(model_path)
 # Image size for the model
 IMG_SIZE = (256, 256)
@@ -53,7 +53,7 @@ window.title("Glasses or No Glasses")
 window.geometry("900x500+100+100")
 window.configure(bg="White")
 
-img_icon = Image.open("test.png")
+img_icon = Image.open("Tkinter-Practice_Glasses-or-No-Glasses/test.png")
 img_icon = img_icon.resize((70, 100), Image.LANCZOS)
 photo_img = ImageTk.PhotoImage(img_icon)
 window.iconphoto(False, photo_img)
