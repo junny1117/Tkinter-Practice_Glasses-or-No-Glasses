@@ -5,6 +5,14 @@
 - Tkinter, Pillow, Keras 활용 이미지 인식 프로그램
 - Keras를 활용해 안경 쓴 사람과 안 쓴 사람을 학습시키고 학습시킨 모델을 적용해 이미지 속 사람이 안경을 썼는지 쓰지 않았는지에 대한 판단 결과를 보여줌
 
+## 사용도구/기술 
+
+**Python**: 개발언어
+**Pillow, OpenCV**: 이미지 처리/변환
+**Tkinter**: GUI
+**Visual Studio Code**: 코드 작성
+**Windows**: 운영체제
+
 ## 파일 목록
 
 ### `nogla-gla.py`
