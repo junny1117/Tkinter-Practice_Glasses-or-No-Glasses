@@ -10,6 +10,7 @@
 - **Python**: 개발언어
 - **Pillow, OpenCV**: 이미지 처리/변환
 - **Tkinter**: GUI
+- **Colab**: 모델학습
 - **Visual Studio Code**: 코드 작성
 - **Windows**: 운영체제
 
